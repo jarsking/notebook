@@ -3,16 +3,15 @@ aa
 tt
 ff
 
-j lkj ljf
-<<<<<<< HEAD
-dsjflk jdlfskj
+jlkcjl
 
+aaaaal';l'flds
+f;l
+dslf
+'as;dlf 'ldsa
+f;l
+dsa'lf
+';ldsaf
+'ldsa
+'f;l;
 
-fdkfkd sflkl
-
-dsakf;
-i
-j
-l
-d
-v
