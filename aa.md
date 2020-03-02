@@ -4,11 +4,10 @@ tt
 ff
 
 j lkj ljf
+<<<<<<< HEAD
 dsjflk jdlfskj
 
 
 fdkfkd sflkl
 
-dsakf;l
-
-
+dsakf;
